@@ -4,7 +4,7 @@
 <li>Fazendo graduação em Sistemas para Internet.</li>
 <li>Estudando html, css, javascript, linguagem C e iniciando java.</li>
 <li>Ajuda é sempre bem-vinda! Se eu puder contribuir, faço com gosto. Se puderem contribuir para o meu crescimento também, fico muito grata. 😉 </li>
-<li>O meu fun fact: Já fui cantora em uma banda autoral na minha cidade e o disco qua gravei está no  <a href="https://open.spotify.com/album/2hMLuowXlwUP0Ulhe5PU5c" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a></li>
+<li>O meu fun fact: Já fui vocalista em uma banda autoral na minha cidade e o disco que gravei está no  <a href="https://open.spotify.com/album/2hMLuowXlwUP0Ulhe5PU5c" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a></li>
 
 ##
 
