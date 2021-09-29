@@ -1,6 +1,7 @@
 ### Olá! Sou a Graziella 👋
 
 <li>Atualmente trabalho com vendas e marketing.</li>
+<li>Em transição de carreira.</li>
 <li>Fazendo graduação em Sistemas para Internet.</li>
 <li>Estudando html, css, javascript, linguagem C e iniciando java.</li>
 <li>Ajuda é sempre bem-vinda! Se eu puder contribuir, faço com gosto. Se puderem contribuir para o meu crescimento também, fico muito grata. 😉 </li>
